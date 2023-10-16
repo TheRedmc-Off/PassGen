@@ -2,7 +2,9 @@
 # Password Generator
 
 This project is a simple password generator, but it is very secure.
-Please take note that it is my first python project to be published, so tell me if there's anything whrong!
+Please take note that it is my first python project to be published, so tell me if there's anything wrong!
+This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest python version is installed)
+See the Roadmap section for more information
 
 
 
@@ -26,9 +28,11 @@ To run debugging tests, just take the source and run the file in vscode or any p
 
 ## Roadmap
 
-- Reduce code size and compress
+- Add support for Termux and Linux distros (Special version to create)
 
-- Add some open file and directory support for onedrive users
+- Add some open file and directory support for onedrive users (Special version to create)
+
+
 ## Support
 
 You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao)
