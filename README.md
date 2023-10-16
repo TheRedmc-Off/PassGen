@@ -33,8 +33,22 @@ To run debugging tests, just take the source and run the file in vscode or any p
 
 You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao)
 ## Screenshots
+### The main menu
 
 ![Main Menu](/img/MainMenu.png?raw=true "Main menu")
+
+### The Generation process
+
 ![Generator](/img/Generator.png?raw=true "Generator")
+
+### The created file
+
 ![File Created in Documents folder](/img/File.png?raw=true "File")
+
+# The text stored inside the file
+
 ![Passwords stored in the text file](/img/SavedText.png?raw=true "Saved text")
+
+## Contributing
+Feel free to fork or edit this repo code, it is open-source, but please mention me!!!
+You can also create some pull requests
