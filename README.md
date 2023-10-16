@@ -9,7 +9,7 @@ Please take note that it is my first python project to be published, so tell me 
 
 ## Features
 
--You can save passwords to a text file or don't save for a single use
+- You can save passwords to a text file or don't save for a single use
 - Very lightweight and fast
 
 
