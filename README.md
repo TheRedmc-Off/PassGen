@@ -34,6 +34,7 @@ To run debugging tests, just take the source and run the file in vscode or any p
 You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao)
 ## Screenshots
 ### The main menu
+Theo Herbst is my real name, i'm not stealing some other people work!
 
 ![Main Menu](/img/MainMenu.png?raw=true "Main menu")
 
