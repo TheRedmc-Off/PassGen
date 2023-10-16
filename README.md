@@ -3,7 +3,7 @@
 
 This project is a simple password generator, but it is very secure.
 Please take note that it is my first python project to be published, so tell me if there's anything wrong!
-This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest python version is installed)
+This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest python version is installed).
 See the Roadmap section for more information
 
 
@@ -12,6 +12,7 @@ See the Roadmap section for more information
 ## Features
 
 - You can save passwords to a text file or don't save for a single use
+  
 - Very lightweight and fast
 
 
