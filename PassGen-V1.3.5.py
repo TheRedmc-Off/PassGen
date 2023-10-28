@@ -5,8 +5,6 @@ import sys
 
 documentsdir = os.path.normpath(os.path.expanduser("~/Documents"))
 
-#fini
-
 Bl='\033[30m'
 Re='\033[1;31m'
 Gr='\033[1;32m'
