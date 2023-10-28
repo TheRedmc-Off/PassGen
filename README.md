@@ -4,7 +4,7 @@
 This project is a simple password generator, but it is very secure.
 Please take note that it is my first python project to be published, so tell me if there's anything wrong!
 This script is only compatible with Windows 10 or 11 (or any Windows OS that is up-to-date and where latest python version is installed).
-See the Roadmap section for more information
+Please go and see the Roadmap section for more information about incoming features!
 
 
 
@@ -12,15 +12,20 @@ See the Roadmap section for more information
 ## Features
 
 - You can save passwords to a text file or don't save for a single use
-  
-- Very lightweight and fast
+
+- Your passwords includes uppercase and lowercase letters, numbers and symbols!
+
+- You can generate as much passwords as you want in one use
+
+- There is no limit for the length of your passwords! It means that you can do a 1 letter one or even a 600!
+
 
 
 
 
 ## Installation
 
-Just download the latest release, or download the source code and compile it!
+Just download the latest release, or download the source code and run it with any python interpreter
     
 ## Running Tests
 
@@ -29,17 +34,14 @@ To run debugging tests, just take the source and run the file in vscode or any p
 
 ## Roadmap
 
-- Add support for Termux and Linux distros (Special version to create)
-
-- Add some open file and directory support for onedrive users (Special version to create)
+- Add support for Termux and Linux (Linux part almost finished)
 
 
 ## Support
 
-You can contact me at theredmc67@gmail.com (it is just my alt and old gmail lmao)
+You can contact me at theredmc67@gmail.com
 ## Screenshots
 ### The main menu
-Theo Herbst is my real name, i'm not stealing some other people work!
 
 ![Main Menu](/img/MainMenu.png?raw=true "Main menu")
 
